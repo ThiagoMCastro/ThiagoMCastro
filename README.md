@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thiagomcastro](https://github.com/thiagomcastro)
 
-- 📫 How to reach me **https://dsc.gg/thiagoc**
+- 📫 How to reach me **areaseca4@gmail.com**
 
 - ⚡ Fun fact **I'm INTP :D**
 
