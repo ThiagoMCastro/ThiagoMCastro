@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago Castro</h1>
 <h3 align="center">A passionate PHP developer.</h3>
-
+<h3 align="center">Check my portfolio at https://thiagomcastro.github.io/</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagomcastro&label=Profile%20views&color=0e75b6&style=flat" alt="thiagomcastro" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thiago_c__arts" target="blank"><img src="https://img.shields.io/twitter/follow/thiago_c__arts?logo=twitter&style=for-the-badge" alt="thiago_c__arts" /></a> </p>
