@@ -9,7 +9,7 @@ import { SoftwareDeveloper, Skills } from 'thiagomcastro';
 class Bio extends SoftwareDeveloper {
   name     = 'Thiago Castro';
   title    = 'Fullstack Developer';
-  company  = 'Castrus Studio'; // Que tal colocarmos sua empresa aqui?
+  company  = 'Castrus Studio';
   location = 'Batatais, SP - Brasil';
   studying = 'Especializando em aplicações web modernas e SaaS'
 }
@@ -49,11 +49,7 @@ class Others implements Skills {
 
 ### 📬 Contato
 
-* 📧 E-mail: [srthiagocastro@gmail.com](mailto:srthiagocastro@gmail.com)
-* 💬 [Linkedin]([https://twitter.com/thiago_c__arts](https://www.linkedin.com/in/thiagocdearaujo/)) • [Instagram](https://instagram.com/thiago.daraujo)
-
-
-📈 Visitas no perfil:
-![Counter](https://profile-counter.glitch.me/thiagomcastro/count.svg)
-
-```
+* E-mail: [srthiagocastro@gmail.com](mailto:srthiagocastro@gmail.com)
+* Linkedin: [Linkedin](https://www.linkedin.com/in/thiagocdearaujo/)
+* Instagram: [Instagram](https://instagram.com/thiago.daraujo)
+* Behance: [Behance](https://www.behance.net/castrusdigital)
